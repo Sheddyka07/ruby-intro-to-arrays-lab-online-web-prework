@@ -16,3 +16,8 @@ def first_element
   array = ["dog", "cat"]
   array[0]
 end
+
+def first_element
+  array = ["dog", "cat"]
+  array[2]
+end
