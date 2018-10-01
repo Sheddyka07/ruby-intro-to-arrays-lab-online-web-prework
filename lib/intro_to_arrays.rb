@@ -17,7 +17,7 @@ def first_element
   array[0]
 end
 
-def first_element
+def third_element
   array = ["dog", "cat", "pig"]
   array[2]
 end
