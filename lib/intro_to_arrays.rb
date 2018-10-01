@@ -11,3 +11,8 @@ def array_with_two_elements
   array = ["dog", "cat"]
   array 
 end
+
+def first_element
+  array = ["dog", "cat"]
+  array[0]
+end
