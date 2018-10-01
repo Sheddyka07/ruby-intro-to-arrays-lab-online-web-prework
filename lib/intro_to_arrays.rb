@@ -18,6 +18,6 @@ def first_element
 end
 
 def first_element
-  array = ["dog", "cat"]
+  array = ["dog", "cat", "pig"]
   array[2]
 end
